@@ -1,0 +1,17 @@
+{
+    "name": "nury/chapter_4",
+    "description": "my first packagelist",
+    "license": "GPL-3.0-only",
+    "autoload": {
+        "psr-4": {
+            "Nury\\Chapter4\\": "src/"
+            
+        }
+    },
+    "authors": [
+        {
+            "name": "Nury"
+        }
+    ],
+    "require": {}
+}
